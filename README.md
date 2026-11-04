@@ -17,3 +17,11 @@ Uses date, hostname, whoami, uptime, df, and free.
 ## list-scripts.sh
 Lists all Bash scripts in the current directory.
 Demonstrates a Bash for loop and filename matching.
+
+## greet.sh
+Accepts a name as a command-line argument and prints a greeting.
+Uses strict mode, argument validation, and error handling.
+
+## backup.sh
+Creates a compressed timestamped backup of a specified folder.
+Uses functions, logging, directory validation, and tar archives.
