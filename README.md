@@ -25,3 +25,5 @@ Uses strict mode, argument validation, and error handling.
 ## backup.sh
 Creates a compressed timestamped backup of a specified folder.
 Uses functions, logging, directory validation, and tar archives.
+
+- `netcheck.sh` — checks whether a hostname is reachable using ping.
