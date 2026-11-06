@@ -27,3 +27,5 @@ Creates a compressed timestamped backup of a specified folder.
 Uses functions, logging, directory validation, and tar archives.
 
 - `netcheck.sh` — checks whether a hostname is reachable using ping.
+
+- `httpcheck.sh` — checks HTTP status codes and verifies URL availability.
